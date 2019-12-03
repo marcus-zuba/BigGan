@@ -1,0 +1,4 @@
+-> batch size : testar com 32 e 128, 2048 mantendo os mesmos parametros
+-> usar elu na função de ativação
+-> deixar relu no gerador e usar leakyrelu na discriminativa
+
